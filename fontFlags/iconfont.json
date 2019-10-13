@@ -1,0 +1,1066 @@
+{
+  "id": "1454705",
+  "name": "flags",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "151331",
+      "name": "add",
+      "font_class": "add",
+      "unicode": "e69a",
+      "unicode_decimal": 59034
+    },
+    {
+      "icon_id": "375659",
+      "name": "checkbox",
+      "font_class": "check",
+      "unicode": "e69b",
+      "unicode_decimal": 59035
+    },
+    {
+      "icon_id": "7890737",
+      "name": "icon_AT(奥地利) ",
+      "font_class": "AT",
+      "unicode": "e609",
+      "unicode_decimal": 58889
+    },
+    {
+      "icon_id": "7890738",
+      "name": "icon_AU(澳大利亚)",
+      "font_class": "AU",
+      "unicode": "e60a",
+      "unicode_decimal": 58890
+    },
+    {
+      "icon_id": "7890739",
+      "name": "icon_AE(阿拉伯联合酋长国)",
+      "font_class": "icon_AEalabolianheqiuchangguo",
+      "unicode": "e60b",
+      "unicode_decimal": 58891
+    },
+    {
+      "icon_id": "7890740",
+      "name": "icon_BA(贝宁)",
+      "font_class": "icon_BAbeining",
+      "unicode": "e60c",
+      "unicode_decimal": 58892
+    },
+    {
+      "icon_id": "7890741",
+      "name": "icon_BA(波斯尼亚和黑塞哥维那)",
+      "font_class": "icon_BAbosiniyaheheisaigeweina",
+      "unicode": "e60d",
+      "unicode_decimal": 58893
+    },
+    {
+      "icon_id": "7890742",
+      "name": "icon_BE(比利时)",
+      "font_class": "BE",
+      "unicode": "e60e",
+      "unicode_decimal": 58894
+    },
+    {
+      "icon_id": "7890743",
+      "name": "icon_BD(孟加拉国)",
+      "font_class": "icon_BDmengjialaguo",
+      "unicode": "e60f",
+      "unicode_decimal": 58895
+    },
+    {
+      "icon_id": "7890744",
+      "name": "icon_BB(巴巴多斯) ",
+      "font_class": "icon_BBbabaduosi",
+      "unicode": "e610",
+      "unicode_decimal": 58896
+    },
+    {
+      "icon_id": "7890745",
+      "name": "icon_BH(巴林)",
+      "font_class": "icon_BHbalin",
+      "unicode": "e611",
+      "unicode_decimal": 58897
+    },
+    {
+      "icon_id": "7890746",
+      "name": "icon_BG(保加利亚)",
+      "font_class": "icon_BGbaojialiya",
+      "unicode": "e612",
+      "unicode_decimal": 58898
+    },
+    {
+      "icon_id": "7890747",
+      "name": "icon_BF(布基纳法索)",
+      "font_class": "icon_BFbujinafasuo",
+      "unicode": "e613",
+      "unicode_decimal": 58899
+    },
+    {
+      "icon_id": "7890748",
+      "name": "icon_BO(玻利维亚)",
+      "font_class": "icon_BOboliweiya",
+      "unicode": "e614",
+      "unicode_decimal": 58900
+    },
+    {
+      "icon_id": "7890749",
+      "name": "icon_BI(布隆迪)",
+      "font_class": "icon_BIbulongdi",
+      "unicode": "e615",
+      "unicode_decimal": 58901
+    },
+    {
+      "icon_id": "7890750",
+      "name": "icon_CM(喀麦隆)",
+      "font_class": "icon_CMkamailong",
+      "unicode": "e616",
+      "unicode_decimal": 58902
+    },
+    {
+      "icon_id": "7890751",
+      "name": "icon_BS(巴哈马)",
+      "font_class": "icon_BSbahama",
+      "unicode": "e617",
+      "unicode_decimal": 58903
+    },
+    {
+      "icon_id": "7890752",
+      "name": "icon_BW(博茨瓦纳)",
+      "font_class": "icon_BWbociwana",
+      "unicode": "e618",
+      "unicode_decimal": 58904
+    },
+    {
+      "icon_id": "7890753",
+      "name": "icon_BR(巴西)",
+      "font_class": "icon_BRbaxi",
+      "unicode": "e619",
+      "unicode_decimal": 58905
+    },
+    {
+      "icon_id": "7890754",
+      "name": "icon_CN(中国)",
+      "font_class": "icon_CNzhongguo",
+      "unicode": "e61a",
+      "unicode_decimal": 58906
+    },
+    {
+      "icon_id": "7890755",
+      "name": "icon_DE(德国)",
+      "font_class": "icon_DEdeguo",
+      "unicode": "e61b",
+      "unicode_decimal": 58907
+    },
+    {
+      "icon_id": "7890756",
+      "name": "icon_AZ(阿塞拜疆) ",
+      "font_class": "icon_AZasaibaijiang",
+      "unicode": "e61c",
+      "unicode_decimal": 58908
+    },
+    {
+      "icon_id": "7969895",
+      "name": "icon_(刚果民主共和国)",
+      "font_class": "icon_gangguominzhugongheguo",
+      "unicode": "e61d",
+      "unicode_decimal": 58909
+    },
+    {
+      "icon_id": "7969896",
+      "name": "icon_CA( 加拿大)",
+      "font_class": "icon_CAjianada",
+      "unicode": "e61e",
+      "unicode_decimal": 58910
+    },
+    {
+      "icon_id": "7969897",
+      "name": "icon_CH(瑞士)",
+      "font_class": "CH",
+      "unicode": "e61f",
+      "unicode_decimal": 58911
+    },
+    {
+      "icon_id": "7969898",
+      "name": "icon_CL(智利)",
+      "font_class": "icon_CLzhili",
+      "unicode": "e620",
+      "unicode_decimal": 58912
+    },
+    {
+      "icon_id": "7969899",
+      "name": "icon_CF(中非共和国)",
+      "font_class": "icon_CFzhongfeigongheguo",
+      "unicode": "e621",
+      "unicode_decimal": 58913
+    },
+    {
+      "icon_id": "7969900",
+      "name": "icon_CI(科特迪瓦)",
+      "font_class": "icon_CIketediwa",
+      "unicode": "e622",
+      "unicode_decimal": 58914
+    },
+    {
+      "icon_id": "7969901",
+      "name": "icon_CU(古巴)",
+      "font_class": "icon_CUguba",
+      "unicode": "e623",
+      "unicode_decimal": 58915
+    },
+    {
+      "icon_id": "7969902",
+      "name": "icon_CO(哥伦比亚)",
+      "font_class": "icon_COgelunbiya",
+      "unicode": "e624",
+      "unicode_decimal": 58916
+    },
+    {
+      "icon_id": "7969903",
+      "name": "icon_CK(库克群岛)",
+      "font_class": "icon_CKkukequndao",
+      "unicode": "e625",
+      "unicode_decimal": 58917
+    },
+    {
+      "icon_id": "7969904",
+      "name": "icon_CR(哥斯达黎加)",
+      "font_class": "icon_CRgesidalijia",
+      "unicode": "e626",
+      "unicode_decimal": 58918
+    },
+    {
+      "icon_id": "7969905",
+      "name": "icon_DJ(吉布提)",
+      "font_class": "icon_DJjibuti",
+      "unicode": "e627",
+      "unicode_decimal": 58919
+    },
+    {
+      "icon_id": "7969906",
+      "name": "icon_CG(刚果共和国)",
+      "font_class": "icon_CGgangguogongheguo",
+      "unicode": "e628",
+      "unicode_decimal": 58920
+    },
+    {
+      "icon_id": "7969907",
+      "name": "icon_CZ(捷克)",
+      "font_class": "icon_CZjieke",
+      "unicode": "e629",
+      "unicode_decimal": 58921
+    },
+    {
+      "icon_id": "7969908",
+      "name": "icon_CV( 佛得角)",
+      "font_class": "icon_CVfodejiao",
+      "unicode": "e62a",
+      "unicode_decimal": 58922
+    },
+    {
+      "icon_id": "7969909",
+      "name": "icon_DZ(阿尔及利亚)",
+      "font_class": "icon_DZaerjiliya",
+      "unicode": "e62b",
+      "unicode_decimal": 58923
+    },
+    {
+      "icon_id": "7969910",
+      "name": "icon_DK(丹麦)",
+      "font_class": "icon_DKdanmai",
+      "unicode": "e62c",
+      "unicode_decimal": 58924
+    },
+    {
+      "icon_id": "7969911",
+      "name": "icon_EE(爱沙尼亚)",
+      "font_class": "icon_EEaishaniya",
+      "unicode": "e62d",
+      "unicode_decimal": 58925
+    },
+    {
+      "icon_id": "7969912",
+      "name": "icon_EH(西撒哈拉)",
+      "font_class": "icon_EHxisahala",
+      "unicode": "e62e",
+      "unicode_decimal": 58926
+    },
+    {
+      "icon_id": "7969913",
+      "name": "icon_FI(芬兰)",
+      "font_class": "icon_FIfenlan",
+      "unicode": "e62f",
+      "unicode_decimal": 58927
+    },
+    {
+      "icon_id": "7969914",
+      "name": "icon_ET(埃塞俄比亚)",
+      "font_class": "icon_ETaisaiebiya",
+      "unicode": "e630",
+      "unicode_decimal": 58928
+    },
+    {
+      "icon_id": "7994712",
+      "name": "icon_FM(密克罗尼西亚联邦)",
+      "font_class": "icon_FMmikeluonixiyalianbang",
+      "unicode": "e631",
+      "unicode_decimal": 58929
+    },
+    {
+      "icon_id": "7994713",
+      "name": "icon_FR(法国)",
+      "font_class": "icon_FRfaguo",
+      "unicode": "e632",
+      "unicode_decimal": 58930
+    },
+    {
+      "icon_id": "7994714",
+      "name": "icon_FO(法罗群岛)",
+      "font_class": "icon_FOfaluoqundao",
+      "unicode": "e633",
+      "unicode_decimal": 58931
+    },
+    {
+      "icon_id": "7994715",
+      "name": "icon_GA(加蓬)",
+      "font_class": "icon_GAjiapeng",
+      "unicode": "e634",
+      "unicode_decimal": 58932
+    },
+    {
+      "icon_id": "7994716",
+      "name": "icon_GF(法属圭亚那)",
+      "font_class": "icon_GFfashuguiyana",
+      "unicode": "e635",
+      "unicode_decimal": 58933
+    },
+    {
+      "icon_id": "7994717",
+      "name": "icon_GE(格鲁吉亚)",
+      "font_class": "icon_GEgelujiya",
+      "unicode": "e636",
+      "unicode_decimal": 58934
+    },
+    {
+      "icon_id": "7994718",
+      "name": "icon_GN(几内亚)",
+      "font_class": "icon_GNjineiya",
+      "unicode": "e637",
+      "unicode_decimal": 58935
+    },
+    {
+      "icon_id": "7994719",
+      "name": "icon_GL(格陵兰)",
+      "font_class": "icon_GLgelinglan",
+      "unicode": "e638",
+      "unicode_decimal": 58936
+    },
+    {
+      "icon_id": "7994720",
+      "name": "icon_GR(希腊)",
+      "font_class": "GR",
+      "unicode": "e639",
+      "unicode_decimal": 58937
+    },
+    {
+      "icon_id": "7994721",
+      "name": "icon_GW(几内亚比绍)",
+      "font_class": "icon_GWjineiyabishao",
+      "unicode": "e63a",
+      "unicode_decimal": 58938
+    },
+    {
+      "icon_id": "7994722",
+      "name": "icon_HU(匈牙利)",
+      "font_class": "icon_HUxiongyali",
+      "unicode": "e63b",
+      "unicode_decimal": 58939
+    },
+    {
+      "icon_id": "7994723",
+      "name": "icon_HN(洪都拉斯)",
+      "font_class": "icon_HNhongdulasi",
+      "unicode": "e63c",
+      "unicode_decimal": 58940
+    },
+    {
+      "icon_id": "7994724",
+      "name": "icon_ID(印度尼西亚)",
+      "font_class": "icon_IDyindunixiya",
+      "unicode": "e63d",
+      "unicode_decimal": 58941
+    },
+    {
+      "icon_id": "7994725",
+      "name": "icon_GH(加纳)",
+      "font_class": "icon_GHjiana",
+      "unicode": "e63e",
+      "unicode_decimal": 58942
+    },
+    {
+      "icon_id": "7994726",
+      "name": "icon_GM(冈比亚)",
+      "font_class": "icon_GMgangbiya",
+      "unicode": "e63f",
+      "unicode_decimal": 58943
+    },
+    {
+      "icon_id": "7994727",
+      "name": "icon_IE(爱尔兰)",
+      "font_class": "icon_IEaierlan",
+      "unicode": "e640",
+      "unicode_decimal": 58944
+    },
+    {
+      "icon_id": "7994728",
+      "name": "icon_IL(以色列)",
+      "font_class": "icon_ILyiselie",
+      "unicode": "e641",
+      "unicode_decimal": 58945
+    },
+    {
+      "icon_id": "7994729",
+      "name": "icon_IS(冰岛)",
+      "font_class": "icon_ISbingdao",
+      "unicode": "e642",
+      "unicode_decimal": 58946
+    },
+    {
+      "icon_id": "7994730",
+      "name": "icon_IQ(伊拉克)",
+      "font_class": "icon_IQyilake",
+      "unicode": "e643",
+      "unicode_decimal": 58947
+    },
+    {
+      "icon_id": "7994731",
+      "name": "icon_IN(印度)",
+      "font_class": "icon_INyindu",
+      "unicode": "e644",
+      "unicode_decimal": 58948
+    },
+    {
+      "icon_id": "8074661",
+      "name": "icon_IT(意大利)",
+      "font_class": "IT",
+      "unicode": "e645",
+      "unicode_decimal": 58949
+    },
+    {
+      "icon_id": "8074662",
+      "name": "icon_JM(牙买加)",
+      "font_class": "icon_JMyamaijia",
+      "unicode": "e646",
+      "unicode_decimal": 58950
+    },
+    {
+      "icon_id": "8074663",
+      "name": "icon_JP(日本)",
+      "font_class": "JP",
+      "unicode": "e647",
+      "unicode_decimal": 58951
+    },
+    {
+      "icon_id": "8074664",
+      "name": "icon_KE(肯尼亚)",
+      "font_class": "icon_KEkenniya",
+      "unicode": "e648",
+      "unicode_decimal": 58952
+    },
+    {
+      "icon_id": "8074665",
+      "name": "icon_JO(约旦)",
+      "font_class": "icon_JOyuedan",
+      "unicode": "e649",
+      "unicode_decimal": 58953
+    },
+    {
+      "icon_id": "8074666",
+      "name": "icon_KN(圣基茨和尼维斯)",
+      "font_class": "icon_KNshengjiciheniweisi",
+      "unicode": "e64a",
+      "unicode_decimal": 58954
+    },
+    {
+      "icon_id": "8074667",
+      "name": "icon_KM(科摩罗)",
+      "font_class": "icon_KMkemoluo",
+      "unicode": "e64b",
+      "unicode_decimal": 58955
+    },
+    {
+      "icon_id": "8074668",
+      "name": "icon_KP(朝鲜)",
+      "font_class": "icon_KPzhaoxian",
+      "unicode": "e64c",
+      "unicode_decimal": 58956
+    },
+    {
+      "icon_id": "8074669",
+      "name": "icon_KW(科威特)",
+      "font_class": "icon_KWkeweite",
+      "unicode": "e64d",
+      "unicode_decimal": 58957
+    },
+    {
+      "icon_id": "8074670",
+      "name": "icon_KR(韩国)",
+      "font_class": "KR",
+      "unicode": "e64e",
+      "unicode_decimal": 58958
+    },
+    {
+      "icon_id": "8074671",
+      "name": "icon_LA(老挝)",
+      "font_class": "icon_LAlaozhua",
+      "unicode": "e64f",
+      "unicode_decimal": 58959
+    },
+    {
+      "icon_id": "8074672",
+      "name": "icon_KG(吉尔吉斯斯坦)",
+      "font_class": "icon_KGjierjisisitan",
+      "unicode": "e650",
+      "unicode_decimal": 58960
+    },
+    {
+      "icon_id": "8074674",
+      "name": "icon_LC(圣卢西亚)",
+      "font_class": "icon_LCshengluxiya",
+      "unicode": "e651",
+      "unicode_decimal": 58961
+    },
+    {
+      "icon_id": "8074675",
+      "name": "icon_LR(利比里亚)",
+      "font_class": "icon_LRlibiliya",
+      "unicode": "e652",
+      "unicode_decimal": 58962
+    },
+    {
+      "icon_id": "8074676",
+      "name": "icon_LV(拉托维亚)",
+      "font_class": "icon_LVlatuoweiya",
+      "unicode": "e653",
+      "unicode_decimal": 58963
+    },
+    {
+      "icon_id": "8074677",
+      "name": "icon_LT(立陶宛)",
+      "font_class": "icon_LTlitaowan",
+      "unicode": "e654",
+      "unicode_decimal": 58964
+    },
+    {
+      "icon_id": "8074678",
+      "name": "icon_LY(利比亚)",
+      "font_class": "icon_LYlibiya",
+      "unicode": "e655",
+      "unicode_decimal": 58965
+    },
+    {
+      "icon_id": "8074679",
+      "name": "icon_LS(莱索托)",
+      "font_class": "icon_LSlaisuotuo",
+      "unicode": "e656",
+      "unicode_decimal": 58966
+    },
+    {
+      "icon_id": "8074680",
+      "name": "icon_LU(卢森堡)",
+      "font_class": "icon_LUlusenbao",
+      "unicode": "e657",
+      "unicode_decimal": 58967
+    },
+    {
+      "icon_id": "8074682",
+      "name": "icon_LB(黎巴嫩)",
+      "font_class": "icon_LBlibanen",
+      "unicode": "e658",
+      "unicode_decimal": 58968
+    },
+    {
+      "icon_id": "8081984",
+      "name": "icon_MG(马达加斯加)",
+      "font_class": "icon_MGmadajiasijia",
+      "unicode": "e659",
+      "unicode_decimal": 58969
+    },
+    {
+      "icon_id": "8081985",
+      "name": "icon_MA(摩洛哥)",
+      "font_class": "icon_MAmoluoge",
+      "unicode": "e65a",
+      "unicode_decimal": 58970
+    },
+    {
+      "icon_id": "8081986",
+      "name": "icon_MM(缅甸)",
+      "font_class": "icon_MMmiandian",
+      "unicode": "e65b",
+      "unicode_decimal": 58971
+    },
+    {
+      "icon_id": "8081987",
+      "name": "icon_ML(马里)",
+      "font_class": "icon_MLmali",
+      "unicode": "e65c",
+      "unicode_decimal": 58972
+    },
+    {
+      "icon_id": "8081988",
+      "name": "icon_NG(尼日利亚)",
+      "font_class": "icon_NGniriliya",
+      "unicode": "e65d",
+      "unicode_decimal": 58973
+    },
+    {
+      "icon_id": "8081989",
+      "name": "icon_MU(毛里求斯)",
+      "font_class": "icon_MUmaoliqiusi",
+      "unicode": "e65e",
+      "unicode_decimal": 58974
+    },
+    {
+      "icon_id": "8081990",
+      "name": "icon_MV(马尔代夫)",
+      "font_class": "icon_MVmaerdaifu",
+      "unicode": "e65f",
+      "unicode_decimal": 58975
+    },
+    {
+      "icon_id": "8081991",
+      "name": "icon_NE(尼日尔)",
+      "font_class": "icon_NEnirier",
+      "unicode": "e660",
+      "unicode_decimal": 58976
+    },
+    {
+      "icon_id": "8081992",
+      "name": "icon_MC(摩纳哥)",
+      "font_class": "icon_MCmonage",
+      "unicode": "e661",
+      "unicode_decimal": 58977
+    },
+    {
+      "icon_id": "8081993",
+      "name": "icon_MR(毛里塔尼亚)",
+      "font_class": "icon_MRmaolitaniya",
+      "unicode": "e662",
+      "unicode_decimal": 58978
+    },
+    {
+      "icon_id": "8081994",
+      "name": "icon_MY(马来西亚)",
+      "font_class": "MY",
+      "unicode": "e663",
+      "unicode_decimal": 58979
+    },
+    {
+      "icon_id": "8081996",
+      "name": "icon_NP(尼泊尔)",
+      "font_class": "icon_NPniboer",
+      "unicode": "e664",
+      "unicode_decimal": 58980
+    },
+    {
+      "icon_id": "8081997",
+      "name": "icon_NA(纳米比亚)",
+      "font_class": "icon_NAnamibiya",
+      "unicode": "e665",
+      "unicode_decimal": 58981
+    },
+    {
+      "icon_id": "8081998",
+      "name": "icon_NR(瑙鲁)",
+      "font_class": "icon_NRnaolu",
+      "unicode": "e666",
+      "unicode_decimal": 58982
+    },
+    {
+      "icon_id": "8081999",
+      "name": "icon_NC(新喀里多尼亚)",
+      "font_class": "icon_NCxinkaliduoniya",
+      "unicode": "e667",
+      "unicode_decimal": 58983
+    },
+    {
+      "icon_id": "8082000",
+      "name": "icon_MN(蒙古)",
+      "font_class": "icon_MNmenggu",
+      "unicode": "e668",
+      "unicode_decimal": 58984
+    },
+    {
+      "icon_id": "8082001",
+      "name": "icon_NU(纽埃)",
+      "font_class": "icon_NUniuai",
+      "unicode": "e669",
+      "unicode_decimal": 58985
+    },
+    {
+      "icon_id": "8082002",
+      "name": "icon_NZ(新西兰)",
+      "font_class": "icon_NZxinxilan",
+      "unicode": "e66a",
+      "unicode_decimal": 58986
+    },
+    {
+      "icon_id": "8082003",
+      "name": "icon_MW(马拉维)",
+      "font_class": "icon_MWmalawei",
+      "unicode": "e66b",
+      "unicode_decimal": 58987
+    },
+    {
+      "icon_id": "8089404",
+      "name": "icon_NL(荷兰)",
+      "font_class": "NL",
+      "unicode": "e66c",
+      "unicode_decimal": 58988
+    },
+    {
+      "icon_id": "8094617",
+      "name": "icon_PA(巴拿马)",
+      "font_class": "icon_PAbanama",
+      "unicode": "e66d",
+      "unicode_decimal": 58989
+    },
+    {
+      "icon_id": "8094618",
+      "name": "icon_NO(挪威)",
+      "font_class": "icon_NOnuowei",
+      "unicode": "e66e",
+      "unicode_decimal": 58990
+    },
+    {
+      "icon_id": "8094619",
+      "name": "icon_PG(巴布亚新几内亚)",
+      "font_class": "icon_PGbabuyaxinjineiya",
+      "unicode": "e66f",
+      "unicode_decimal": 58991
+    },
+    {
+      "icon_id": "8094620",
+      "name": "icon_PK(巴基斯坦)",
+      "font_class": "icon_PKbajisitan",
+      "unicode": "e670",
+      "unicode_decimal": 58992
+    },
+    {
+      "icon_id": "8094621",
+      "name": "icon_PL(波兰)",
+      "font_class": "icon_PLbolan",
+      "unicode": "e671",
+      "unicode_decimal": 58993
+    },
+    {
+      "icon_id": "8094622",
+      "name": "icon_PW(帕劳)",
+      "font_class": "icon_PWpalao",
+      "unicode": "e672",
+      "unicode_decimal": 58994
+    },
+    {
+      "icon_id": "8094623",
+      "name": "icon_PS(巴勒斯坦)",
+      "font_class": "icon_PSbalesitan",
+      "unicode": "e673",
+      "unicode_decimal": 58995
+    },
+    {
+      "icon_id": "8094624",
+      "name": "icon_PR(波多黎各)",
+      "font_class": "icon_PRboduolige",
+      "unicode": "e674",
+      "unicode_decimal": 58996
+    },
+    {
+      "icon_id": "8094625",
+      "name": "icon_RO(罗马尼亚)",
+      "font_class": "icon_ROluomaniya",
+      "unicode": "e675",
+      "unicode_decimal": 58997
+    },
+    {
+      "icon_id": "8094626",
+      "name": "icon_RU(俄罗斯联邦)",
+      "font_class": "icon_RUeluosilianbang",
+      "unicode": "e676",
+      "unicode_decimal": 58998
+    },
+    {
+      "icon_id": "8094627",
+      "name": "icon_SL(塞拉利昂)",
+      "font_class": "icon_SLsailaliang",
+      "unicode": "e677",
+      "unicode_decimal": 58999
+    },
+    {
+      "icon_id": "8094628",
+      "name": "icon_SC(塞舌尔)",
+      "font_class": "icon_SCsaisheer",
+      "unicode": "e678",
+      "unicode_decimal": 59000
+    },
+    {
+      "icon_id": "8094629",
+      "name": "icon_PH(菲律宾)",
+      "font_class": "icon_PHfeilvbin",
+      "unicode": "e679",
+      "unicode_decimal": 59001
+    },
+    {
+      "icon_id": "8094630",
+      "name": "icon_SN(塞内加尔)",
+      "font_class": "icon_SNsaineijiaer",
+      "unicode": "e67a",
+      "unicode_decimal": 59002
+    },
+    {
+      "icon_id": "8094631",
+      "name": "icon_SG(新加坡)",
+      "font_class": "SG",
+      "unicode": "e67b",
+      "unicode_decimal": 59003
+    },
+    {
+      "icon_id": "8094632",
+      "name": "icon_QA(卡塔尔)",
+      "font_class": "icon_QAqiataer",
+      "unicode": "e67c",
+      "unicode_decimal": 59004
+    },
+    {
+      "icon_id": "8094633",
+      "name": "icon_ST(圣多美和普林西比)",
+      "font_class": "icon_STshengduomeihepulinxibi",
+      "unicode": "e67d",
+      "unicode_decimal": 59005
+    },
+    {
+      "icon_id": "8094634",
+      "name": "icon_RW(卢旺达)",
+      "font_class": "icon_RWluwangda",
+      "unicode": "e67e",
+      "unicode_decimal": 59006
+    },
+    {
+      "icon_id": "8094635",
+      "name": "icon_SA(沙特阿拉伯)",
+      "font_class": "icon_SAshatealabo",
+      "unicode": "e67f",
+      "unicode_decimal": 59007
+    },
+    {
+      "icon_id": "8094636",
+      "name": "icon_SK(斯洛伐克)",
+      "font_class": "icon_SKsiluofake",
+      "unicode": "e680",
+      "unicode_decimal": 59008
+    },
+    {
+      "icon_id": "8136925",
+      "name": "icon_SD(南苏丹)",
+      "font_class": "icon_SDnansudan",
+      "unicode": "e681",
+      "unicode_decimal": 59009
+    },
+    {
+      "icon_id": "8136926",
+      "name": "icon_SD(苏丹)",
+      "font_class": "icon_SDsudan",
+      "unicode": "e682",
+      "unicode_decimal": 59010
+    },
+    {
+      "icon_id": "8136927",
+      "name": "icon_SB(所罗门群岛)",
+      "font_class": "icon_SBsuoluomenqundao",
+      "unicode": "e683",
+      "unicode_decimal": 59011
+    },
+    {
+      "icon_id": "8136928",
+      "name": "icon_SE(瑞典)",
+      "font_class": "SE",
+      "unicode": "e684",
+      "unicode_decimal": 59012
+    },
+    {
+      "icon_id": "8136929",
+      "name": "icon_SU(苏里南)",
+      "font_class": "icon_SUsulinan",
+      "unicode": "e685",
+      "unicode_decimal": 59013
+    },
+    {
+      "icon_id": "8136930",
+      "name": "icon_SO(索马里)",
+      "font_class": "icon_SOsuomali",
+      "unicode": "e686",
+      "unicode_decimal": 59014
+    },
+    {
+      "icon_id": "8136931",
+      "name": "icon_TD(乍得)",
+      "font_class": "icon_TDzhade",
+      "unicode": "e687",
+      "unicode_decimal": 59015
+    },
+    {
+      "icon_id": "8136932",
+      "name": "icon_SY(叙利亚)",
+      "font_class": "icon_SYxuliya",
+      "unicode": "e688",
+      "unicode_decimal": 59016
+    },
+    {
+      "icon_id": "8136933",
+      "name": "icon_TG(多哥)",
+      "font_class": "icon_TGduoge",
+      "unicode": "e689",
+      "unicode_decimal": 59017
+    },
+    {
+      "icon_id": "8136934",
+      "name": "icon_TT(特立尼达和多巴哥)",
+      "font_class": "icon_TTtelinidaheduobage",
+      "unicode": "e68a",
+      "unicode_decimal": 59018
+    },
+    {
+      "icon_id": "8136935",
+      "name": "icon_TO(汤加)",
+      "font_class": "icon_TOtangjia",
+      "unicode": "e68b",
+      "unicode_decimal": 59019
+    },
+    {
+      "icon_id": "8136936",
+      "name": "icon_TH(泰国)",
+      "font_class": "TH",
+      "unicode": "e68c",
+      "unicode_decimal": 59020
+    },
+    {
+      "icon_id": "8136937",
+      "name": "icon_UA(乌克兰)",
+      "font_class": "icon_UAwukelan",
+      "unicode": "e68d",
+      "unicode_decimal": 59021
+    },
+    {
+      "icon_id": "8136938",
+      "name": "icon_TZ(坦桑尼亚)",
+      "font_class": "icon_TZtansangniya",
+      "unicode": "e68e",
+      "unicode_decimal": 59022
+    },
+    {
+      "icon_id": "8136939",
+      "name": "icon_TV(图瓦卢)",
+      "font_class": "icon_TVtuwalu",
+      "unicode": "e68f",
+      "unicode_decimal": 59023
+    },
+    {
+      "icon_id": "8136940",
+      "name": "icon_VE(委内瑞拉)",
+      "font_class": "icon_VEweineiruila",
+      "unicode": "e690",
+      "unicode_decimal": 59024
+    },
+    {
+      "icon_id": "8136941",
+      "name": "icon_VN(越南)",
+      "font_class": "icon_VNyuenan",
+      "unicode": "e691",
+      "unicode_decimal": 59025
+    },
+    {
+      "icon_id": "8136942",
+      "name": "icon_ZA(南非)",
+      "font_class": "icon_ZAnanfei",
+      "unicode": "e692",
+      "unicode_decimal": 59026
+    },
+    {
+      "icon_id": "8136943",
+      "name": "icon_WS(西萨摩亚)",
+      "font_class": "icon_WSxisamoya",
+      "unicode": "e693",
+      "unicode_decimal": 59027
+    },
+    {
+      "icon_id": "8136944",
+      "name": "icon_YE(也门)",
+      "font_class": "icon_YEyemen",
+      "unicode": "e694",
+      "unicode_decimal": 59028
+    },
+    {
+      "icon_id": "8136945",
+      "name": "icon_UZ(乌兹别克斯坦)",
+      "font_class": "icon_UZwuzibiekesitan",
+      "unicode": "e695",
+      "unicode_decimal": 59029
+    },
+    {
+      "icon_id": "8136946",
+      "name": "icon_US(美国)",
+      "font_class": "US",
+      "unicode": "e696",
+      "unicode_decimal": 59030
+    },
+    {
+      "icon_id": "8136947",
+      "name": "icon_UY(乌拉圭)",
+      "font_class": "icon_UYwulagui",
+      "unicode": "e697",
+      "unicode_decimal": 59031
+    },
+    {
+      "icon_id": "8136948",
+      "name": "icon_VC(圣文森特和格林纳丁斯)",
+      "font_class": "icon_VCshengwensentehegelinnadingsi",
+      "unicode": "e698",
+      "unicode_decimal": 59032
+    },
+    {
+      "icon_id": "8136949",
+      "name": "icon_UK(英国)",
+      "font_class": "UK",
+      "unicode": "e699",
+      "unicode_decimal": 59033
+    },
+    {
+      "icon_id": "11248746",
+      "name": "icon_HK(香港)",
+      "font_class": "HK",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "11248747",
+      "name": "icon_ES(西班牙)",
+      "font_class": "ES",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    },
+    {
+      "icon_id": "11248748",
+      "name": "icon_SG(申根国家)",
+      "font_class": "PASS",
+      "unicode": "e603",
+      "unicode_decimal": 58883
+    },
+    {
+      "icon_id": "11248870",
+      "name": "icon_MO(澳门)",
+      "font_class": "MO",
+      "unicode": "e604",
+      "unicode_decimal": 58884
+    }
+  ]
+}
