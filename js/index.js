@@ -109,7 +109,8 @@ function getDestination() {
         new calendar(".calendar", {
             checkCalender: true,
             callback : function (startDate, endDate) {
-                console.log(startDate, endDate)
+                console.log(startDate, endDate);
+                // 日期格式为 2019-10-01 yyyy-MM-dd
                 userData.startDate = startDate;
                 userData.endDate = endDate;
             }
