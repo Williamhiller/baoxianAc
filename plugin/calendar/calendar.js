@@ -13,7 +13,8 @@
             checkCalender: false,
             topcalendarTop: options.calendarTop || '38px',
             beforeToday: true,
-            afterToday: false
+            afterToday: false,
+            callback : null
         };
         _this._element = $(element);
         _this._options = $.extend({}, defaults, options);
@@ -245,6 +246,7 @@
                         $(this).append('<span>出发</span>')
                     } else if (getAllCalender.indexOf(_date) === getAllCalender.length - 1) {
                         endCalender = _date;
+                        $(this).find('span').remove();
                         $(this).removeClass('first').addClass('endDate');
                         $(this).append('<span>返回</span>')
                     }else if (getAllCalender.indexOf(_date) !== -1) {
@@ -278,6 +280,7 @@
                     if (clickNum == 1) {
                         // that.addClass('startDate');
                         that.addClass('first');
+                        $(this).append('<span>出发</span>')
                         startCalender = that.attr('_date');
                         // $(this).parent('ul').children('li').hover(function () {
                         //     endCalender = $(this).attr('_date');
@@ -295,10 +298,12 @@
                     } else if (clickNum == 3) {
                         clickNum = 1;
                         startCalender = that.attr('_date');
+                        endCalender = ''
                         $(this).parent('ul').children('li').each(function () {
                             $(this).find('span').remove();
                             $(this).removeClass('hover').removeClass('startDate').removeClass('endDate');
                         })
+                        $(this).append('<span>出发</span>')
                         that.addClass('first');
                         // $(this).parent('ul').children('li').hover(function () {
                         //     endCalender = $(this).attr('_date');
@@ -306,6 +311,9 @@
                         // })
                         _this._element.find('.bottom-btn .sure-btn').addClass('disabled')
                         _this._element.find('.dateTimeInput input').val('')
+                    }
+                    if(_this._options.callback) {
+                        _this._options.callback(startCalender, endCalender)
                     }
                 } else {
                     _this._element.hide();
