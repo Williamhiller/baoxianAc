@@ -382,6 +382,9 @@ a{ text-decoration: none; }
   font-size: .24rem;
   padding-bottom: .5rem;
 }
+.flow_1, .flow_2, .flow_3 {
+  padding-bottom: 1.4rem;
+}
 
 .flow_rule {
   padding: .54rem;

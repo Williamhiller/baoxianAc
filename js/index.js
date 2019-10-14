@@ -152,7 +152,30 @@ function getDestination() {
     // 选择好时间后点击下一步
     $('.flow_2').on('click','.btn_next', function () {
         // 检测信息是否填写完整，并发送数据到后端
-        // ... 通过后
+
+        var params = {
+            userName : $('#name').val(),
+            idcard : $('#idCard').val(),
+            phone : $('#phone').val(),
+        };
+        var errorMsg = '';
+        errorMsg = validate(params,['userName','idcard','phone']);
+        if(errorMsg) {
+            showAlert(errorMsg);
+            return;
+        }
+        // 如果展开，则需要填写随行人
+        if($('.follower .add').hasClass('open')) {
+            params.followerName = $('#follower_name').val();
+            params.followeridcard = $('#follower_idCard').val();
+        }
+        errorMsg = validate(params,['followerName', 'followeridcard']);
+        if(errorMsg) {
+            showAlert(errorMsg);
+            return;
+        }
+        // ... 通过后将数据保存ajax发送
+        // 成功后显示提交成功
         $('.flow_2').hide();
         $('.flow_3').show();
     });
@@ -162,4 +185,70 @@ function getDestination() {
         $('.flow_1').hide();
         $('.flow_rule').show();
     })
+}
+
+function validate(validateForm,validateGroup) {
+    var format = {
+        has: {
+            userName: /^[\u4E00-\u9FA5]{1,4}$/,
+            idcard: /(^\d{15}$)|(^\d{17}([0-9]|x|X)$)/
+        }
+    }
+    var validate={
+        userName:{
+            formats: ["require", "userNameFormat"],
+            messages: ["姓名不能为空", "请填写真实姓名"]
+        },
+        idcard:{
+            formats: ["require", "idcardFormat"],
+            messages: ["身份证号不能为空", "请填写正确的身份证号"]
+        },
+        phone : {
+            formats: ["require"],
+            messages: ["请填写联系方式"]
+        },
+        followerName:{
+            formats: ["require", "userNameFormat"],
+            messages: ["请填写随行人姓名", "请填写真实的随行人姓名"]
+        },
+        followeridcard:{
+            formats: ["require", "idcardFormat"],
+            messages: ["请填写随行人身份证号", "随行人身份证号码不正确"]
+        },
+        method:{
+            baseCheck:function(checkValue,formats,message){
+                for(var i=0;i<formats.length;i++){
+                    //动态调用验证
+                    if (typeof this[formats[i]] == "function"){
+                        if(!this[formats[i]](checkValue)){
+                            return message[i];
+                        }
+                    }
+                }
+                return null;
+            },
+            require :function(val){
+                return val!=null&&val!="";
+            },
+            userNameFormat : function(val){
+                return val.match(format.has.userName)!=null;
+            },
+            idcardFormat : function(val){
+                return val.match(format.has.idcard)!=null;
+            }
+        }
+    };
+    var err_message = null;
+    for (var i = 0; i < validateGroup.length; i++) {
+        var checkName = validateGroup[i];
+        var checkValue = validateForm[checkName];
+        var checkValidate = validate[checkName];
+        var formats = checkValidate.formats;
+        var message = checkValidate.messages;
+        err_message = validate.method.baseCheck(checkValue,formats,message);
+        if(err_message!=null){
+            break;
+        }
+    }
+    return err_message;
 }
