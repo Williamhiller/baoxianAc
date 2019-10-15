@@ -6,6 +6,13 @@
   "description": "",
   "glyphs": [
     {
+      "icon_id": "7457",
+      "name": "左箭头",
+      "font_class": "back",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
       "icon_id": "151331",
       "name": "add",
       "font_class": "add",
@@ -1033,6 +1040,13 @@
       "font_class": "UK",
       "unicode": "e699",
       "unicode_decimal": 59033
+    },
+    {
+      "icon_id": "8300826",
+      "name": "关闭",
+      "font_class": "close",
+      "unicode": "e608",
+      "unicode_decimal": 58888
     },
     {
       "icon_id": "11248746",

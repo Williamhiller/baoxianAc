@@ -113,6 +113,18 @@ a{ text-decoration: none; }
   width: .64rem;
   height: auto;
 }
+.share_wrap {
+  position: fixed;
+  z-index: 9999;
+  left: 0;right: 0;top: 0;bottom: 0;
+  background-color: rgba(0,0,0,0.6);
+}
+.share_wrap .guide{
+  width: 3.82rem;
+  position: absolute;
+  right: .4rem;
+  top: .4rem;
+}
 
 .top_info_wrap {
   padding-top: .2rem;
@@ -388,6 +400,7 @@ a{ text-decoration: none; }
 
 .flow_rule {
   padding: .54rem;
+  position: relative;
 }
 .flow_rule .title {
   text-align: center;
@@ -397,6 +410,11 @@ a{ text-decoration: none; }
 .flow_rule .text {
   font-size: .24rem;
   text-align: justify;
+}
+.flow_rule .back {
+  position: absolute;
+  font-size: .32rem;
+  color: #2378F8;
 }
 a ,
 .a{

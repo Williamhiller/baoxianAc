@@ -180,11 +180,25 @@ function getDestination() {
         $('.flow_2').hide();
         $('.flow_3').show();
     });
+    // 投保成功界面点击分享图片跳转至分享
+    $('.flow_4').on('click','.share',function () {
+        $('.flow_4').hide();
+        $('.flow_page').hide();
+        $('.index_page').show();
+        // 判断是否自己打开分享页
+        $('.view_self').show();
+        $('.share_wrap').show();
+    });
 
     // 点击活动规则显示规则详情
     $('#showRule').on('click', function () {
         $('.flow_1').hide();
         $('.flow_rule').show();
+    });
+    // 关闭规则回到时间选择界面
+    $('.flow_rule .back').on('click', function () {
+        $('.flow_1').show();
+        $('.flow_rule').hide();
     })
 }
 
